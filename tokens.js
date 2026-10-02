@@ -1,4 +1,5 @@
 // status can be "online", "idle", "dnd", or "invisible" or "offline"
+import 'dotenv/config';
 export default [
     {
         channelId: "1210299716936409150",
