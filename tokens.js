@@ -14,6 +14,6 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: fales,
     },
 ];
